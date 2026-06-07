@@ -117,7 +117,7 @@ Güvenlik için ilk girişten sonra ayarlar ekranından bu bilgileri değiştirm
 ```text
 helpdeskotamasyonu/
 ├── 2405242054SemihŞeker.xlsm
-├── code.txt
+├── code.vba
 ├── girişekranı.png
 ├── kayıtekranı.png
 ├── kayıtsorgulama.png
@@ -129,7 +129,7 @@ helpdeskotamasyonu/
 
 ## Geliştirici Notları
 
-- VBA kodlarının metin hali `code.txt` dosyasında bulunur.
+- VBA kodlarının metin hali `code.vba` dosyasında bulunur.
 - Excel dosyasında makrolar etkin değilse uygulama çalışmaz.
 - Sayfa adları VBA kodunda sabit kullanıldığı için sayfa isimleri korunmalıdır.
 - Kullanıcı arayüzü `UserForm` ve `MultiPage` yapısı üzerine kuruludur.
